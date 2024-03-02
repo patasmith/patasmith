@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Pat 😃
-- 📝 I'm a software engineer with a background in art and writing 🎨
-- 🌱 I’m currently working on an AI formula fiction app 🤖
-- ☕ Hit me up at pat.a.smith.dev at gmail, let's chat and collaborate 😎
+👋 Hi, I’m Pat, a software engineer with a background in art and writing. I’m currently working on an AI formula fiction-writing app (this is not released yet but see autobook below for a simple book generator geared for nonfiction). Hit me up at pat.a.smith.dev at gmail for chats and collaboration 😎
