@@ -1,5 +1,10 @@
-👋 Hi, I’m Pat, a software engineer with a background in art and writing.
+Hi, I’m Pat, a software engineer with a background in art and writing. I'm currently working on private projects relating to:
 
-🤖 I’m currently working on an AI formula (read: genre) fiction-writing app; see my autobook repo for a simple book generator geared for nonfiction.
+- **Procedural storytelling via ad-hoc narrative formulas.** *Formulaic writing* is a passion of mine; while it is usually a derisive term, *formulas* are essential for all kinds of writing, both in art and in business. The true utility of the formula is in how it highlights any deviation the writer chooses to make. Surprises are what makes a piece of writing memorable for the reader, after all. The tools I work on are designed to aid the writer in focusing on creating these surprises, while speeding up the "boring" parts of the writing process.
+- **Financial tracking and analysis for small, informal groups with recurring meetings.** Most data lovers, when managing a little book club or bird-watching society, pull out the trusty spreadsheet to track and analyze donations and headcount and so on. Unfortunately, it is a rare person who can appreciate the power and beauty of a well-designed spreadsheet;  the duty of keeping these metrics up to date often falls to a single brave individual. Good luck keeping things straight if they fall off the earth! Any alternative I'm aware of is overengineered and costly. Out of sheer necessity, I'm working on a tool that makes it easy for the technologically timid to participate in the collection and maintenance of vital data from the comfort of their phone, complete with fun colors and graphs that provide just the right level of dopamine to encourage repeated use of the tool.
 
-☕ Hit me up at pat.a.smith.dev at gmail to chat and collaborate.
+I have a couple small tools available on my Github related to book generation:
+- **Autobook** is a command-line program that uses a simple multistep formula to generate a "book" (in text or epub format) from a single topic. It's an older program of mine and is in dire need of a good refactoring and additional features, but it works, for now.
+- **Corpusmaker** is another command-line tool that creates JSONL files from unstructured text, which you can then use to fine-tune an AI model. It uses a "reverse prompting" technique that saves a lot of time, but also eats up a lot of $$$ if applied to long-form text. I developed this using TDD and while it is lacking in features (I made it for a very specific use case), it has a lot of potential for extensibility.
+
+I love to chat about these topics so feel free to hit me up on LinkedIn or at pat.a.smith.dev at gmail.
